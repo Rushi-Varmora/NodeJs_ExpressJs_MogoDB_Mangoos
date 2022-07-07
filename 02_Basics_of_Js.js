@@ -101,3 +101,6 @@ console.log(str1.slice(6,9));
 console.log(str1.slice(2,4));
 
 //Substring (startIndex,endIndex)
+
+
+
